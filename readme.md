@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rhutikcodes/rhutikcodes/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rhutikcodes/rhutikcodes/output/snake.svg" alt="Snake animation" />
 
 ###
