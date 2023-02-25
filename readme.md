@@ -6,9 +6,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rhutikcodes" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rhutikcodes" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default_repocard&locale=en&hide_border=false&username=rhutikcodes" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default_repocard&hide_border=false&username=rhutikcodes" height="150" alt="languages graph"  />
+
 </div>
 
 ###
@@ -50,8 +51,8 @@
 <p align="left">Show some ❤️ by starring some of the repositories!</p>
 
 ###
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/rhutikcodes/rhutikcodes/output/snake.svg" alt="Snake animation" />
 
