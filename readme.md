@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 working as a lead software engineer @NxtJob<br>🌱 I’m currently learning System Design.<br>💬 Ask me about Flutter, React, Next.js, Flask, Node.js and CSS<br>⚡ Fun fact: Can be found meditating if not coding</p>
+<p align="left">👨‍💻 Cofounder @NxtJob.ai<br>🌱 I’m currently learning System Design.<br>💬 Ask me about Flutter, React, Next.js, Flask, Node.js and CSS<br>⚡ Fun fact: Can be found meditating if not coding</p>
 
 ###
 
