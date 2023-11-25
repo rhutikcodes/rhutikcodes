@@ -54,6 +54,6 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-<img src="https://raw.githubusercontent.com/rhutikcodes/rhutikcodes/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/rhutikcodes/rhutikcodes/output/snake.svg" alt="Snake animation" /> -->
 
 ###
